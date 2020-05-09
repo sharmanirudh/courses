@@ -77,7 +77,7 @@
                 "link": "https://www.coursera.org/learn/python-machine-learning",
                 "about": "Describe how machine learning is different than descriptive statistics, create and evaluate data clusters, explain different approaches for creating predictive models and build features that meet analysis needs",
                 "skills_acquired": ["Python Programming", "Machine Learning", "Machine Learning (ML) Algorithms", "Scikit-Learn"]
-            },
+            }
         ]
     }
 }
