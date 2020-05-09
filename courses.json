@@ -1,83 +1,88 @@
 {
-    "courses": {
-        "completed": [ 
-            {
-                "name": "Introduction to Data Science in Python",
-                "offered_by": "University of Michigan",
-                "course_instructor": "Christopher Brooks",
-                "link": "https://www.coursera.org/learn/python-data-analysis",
-                "about": "Understand techniques such as lambdas and manipulating csv files, describe common Python functionality and features used for data science and query DataFrame structures for cleaning and processing and explain distributions, sampling, and t-tests",
-                "skills_acquired": ["Python Programming", "NumPy", "Pandas", "Data Cleansing"]
-            },
-            {
-                "name": "Applied Plotting, Charting & Data Representation in Python",
-                "offered_by": "University of Michigan",
-                "course_instructor": "Christopher Brooks",
-                "link": "https://www.coursera.org/learn/python-plotting",
-                "about": "Describe what makes a good or bad visualization, understand best practices for creating basic charts, identify the functions that are best for particular problems and Create a visualization using Matplotlib",
-                "skills_acquired": ["Data Visualization", "Matplotlib", "Events & Animation in Matplotlib"]
-            },
-            {
-                "name": "Neural Networks and Deep Learning",
-                "offered_by": "Deeplearning.ai",
-                "course_instructor": "Andrew Ng",
-                "link": "https://www.coursera.org/learn/neural-networks-deep-learning",
-                "about": "build, train and apply fully connected deep neural networks",
-                "skills_acquired": ["Artificial Neural Network", "TensorFlow", "Backpropagation", "Deep Learning"]
-            },
-            {
-                "name": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
-                "offered_by": "Deeplearning.ai",
-                "course_instructor": "Andrew Ng",
-                "link": "https://www.coursera.org/learn/deep-neural-network",
-                "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
-                "skills_acquired": ["Hyperparameter", "TensorFlow", "Hyperparameter Optimization"]
-            },
-            {
-                "name": "Structuring Machine Learning Projects",
-                "offered_by": "Deeplearning.ai",
-                "course_instructor": "Andrew Ng",
-                "link": "https://www.coursera.org/learn/machine-learning-projects",
-                "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
-                "skills_acquired": ["Inductive Transfer", "Multi-Task Learning", "Machine Learning"]
-            },
-            {
-                "name": "Convolutional Neural Networks",
-                "offered_by": "Deeplearning.ai",
-                "course_instructor": "Andrew Ng",
-                "link": "https://www.coursera.org/learn/convolutional-neural-networks",
-                "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
-                "skills_acquired": ["About Facial Recognition System", "Convolutional Neural Network", 
-                    "Artificial Neural Network"]
-            },
-            {
-                "name": "Sequence Models",
-                "offered_by": "Deeplearning.ai",
-                "course_instructor": "Andrew Ng",
-                "link": "https://www.coursera.org/learn/nlp-sequence-models",
-                "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
-                "skills_acquired": ["Recurrent Neural Network", "Long Short-Term Memory (LSTM)",
-                    "Artificial Neural Network"]
-            },
-            {
-                "name": "Machine Learning",
-                "offered_by": "Deeplearning.ai",
-                "course_instructor": "Andrew Ng",
-                "link": "https://www.coursera.org/learn/machine-learning",
-                "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
-                "skills_acquired": ["Logistic Regression", "Artificial Neural Network", 
-                    "Machine Learning Algorithms", "Machine Learning", "Supervised Learning", "Unsupervised Learning"]
-            }
-        ],
-        "ongoing": [
-            {
-                "name": "Applied Machine Learning in Python",
-                "offered_by": "University of Michigan",
-                "course_instructor": "Kevyn Collins-Thompson",
-                "link": "https://www.coursera.org/learn/python-machine-learning",
-                "about": "Describe how machine learning is different than descriptive statistics, create and evaluate data clusters, explain different approaches for creating predictive models and build features that meet analysis needs",
-                "skills_acquired": ["Python Programming", "Machine Learning", "Machine Learning (ML) Algorithms", "Scikit-Learn"]
-            }
-        ]
-    }
+    "courses": [ 
+        {
+            "name": "Introduction to Data Science in Python",
+            "offered_by": "University of Michigan",
+            "course_instructor": "Christopher Brooks",
+            "link": "https://www.coursera.org/learn/python-data-analysis",
+            "about": "Understand techniques such as lambdas and manipulating csv files, describe common Python functionality and features used for data science and query DataFrame structures for cleaning and processing and explain distributions, sampling, and t-tests",
+            "skills_acquired": ["Python Programming", "NumPy", "Pandas", "Data Cleansing"],
+            "status": "completed"
+        },
+        {
+            "name": "Applied Plotting, Charting & Data Representation in Python",
+            "offered_by": "University of Michigan",
+            "course_instructor": "Christopher Brooks",
+            "link": "https://www.coursera.org/learn/python-plotting",
+            "about": "Describe what makes a good or bad visualization, understand best practices for creating basic charts, identify the functions that are best for particular problems and Create a visualization using Matplotlib",
+            "skills_acquired": ["Data Visualization", "Matplotlib", "Events & Animation in Matplotlib"],
+            "status": "completed"
+        },
+        {
+            "name": "Neural Networks and Deep Learning",
+            "offered_by": "Deeplearning.ai",
+            "course_instructor": "Andrew Ng",
+            "link": "https://www.coursera.org/learn/neural-networks-deep-learning",
+            "about": "build, train and apply fully connected deep neural networks",
+            "skills_acquired": ["Artificial Neural Network", "TensorFlow", "Backpropagation", "Deep Learning"],
+            "status": "completed"
+        },
+        {
+            "name": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
+            "offered_by": "Deeplearning.ai",
+            "course_instructor": "Andrew Ng",
+            "link": "https://www.coursera.org/learn/deep-neural-network",
+            "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
+            "skills_acquired": ["Hyperparameter", "TensorFlow", "Hyperparameter Optimization"],
+            "status": "completed"
+        },
+        {
+            "name": "Structuring Machine Learning Projects",
+            "offered_by": "Deeplearning.ai",
+            "course_instructor": "Andrew Ng",
+            "link": "https://www.coursera.org/learn/machine-learning-projects",
+            "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
+            "skills_acquired": ["Inductive Transfer", "Multi-Task Learning", "Machine Learning"],
+            "status": "completed"
+        },
+        {
+            "name": "Convolutional Neural Networks",
+            "offered_by": "Deeplearning.ai",
+            "course_instructor": "Andrew Ng",
+            "link": "https://www.coursera.org/learn/convolutional-neural-networks",
+            "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
+            "skills_acquired": ["About Facial Recognition System", "Convolutional Neural Network", 
+                "Artificial Neural Network"],
+            "status": "completed"
+        },
+        {
+            "name": "Sequence Models",
+            "offered_by": "Deeplearning.ai",
+            "course_instructor": "Andrew Ng",
+            "link": "https://www.coursera.org/learn/nlp-sequence-models",
+            "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
+            "skills_acquired": ["Recurrent Neural Network", "Long Short-Term Memory (LSTM)",
+                "Artificial Neural Network"],
+            "status": "completed"
+        },
+        {
+            "name": "Machine Learning",
+            "offered_by": "Deeplearning.ai",
+            "course_instructor": "Andrew Ng",
+            "link": "https://www.coursera.org/learn/machine-learning",
+            "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
+            "skills_acquired": ["Logistic Regression", "Artificial Neural Network", 
+                "Machine Learning Algorithms", "Machine Learning", "Supervised Learning", "Unsupervised Learning"],
+            "status": "completed"
+        },
+        {
+            "name": "Applied Machine Learning in Python",
+            "offered_by": "University of Michigan",
+            "course_instructor": "Kevyn Collins-Thompson",
+            "link": "https://www.coursera.org/learn/python-machine-learning",
+            "about": "Describe how machine learning is different than descriptive statistics, create and evaluate data clusters, explain different approaches for creating predictive models and build features that meet analysis needs",
+            "skills_acquired": ["Python Programming", "Machine Learning", "Machine Learning (ML) Algorithms", "Scikit-Learn"],
+            "status": "In Progress"
+        }
+    ]
 }
