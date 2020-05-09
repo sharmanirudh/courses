@@ -7,7 +7,7 @@
             "link": "https://www.coursera.org/learn/python-data-analysis",
             "about": "Understand techniques such as lambdas and manipulating csv files, describe common Python functionality and features used for data science and query DataFrame structures for cleaning and processing and explain distributions, sampling, and t-tests",
             "skills_acquired": ["Python Programming", "NumPy", "Pandas", "Data Cleansing"],
-            "status": "completed"
+            "status": "Completed"
         },
         {
             "name": "Applied Plotting, Charting & Data Representation in Python",
@@ -16,7 +16,7 @@
             "link": "https://www.coursera.org/learn/python-plotting",
             "about": "Describe what makes a good or bad visualization, understand best practices for creating basic charts, identify the functions that are best for particular problems and Create a visualization using Matplotlib",
             "skills_acquired": ["Data Visualization", "Matplotlib", "Events & Animation in Matplotlib"],
-            "status": "completed"
+            "status": "Completed"
         },
         {
             "name": "Neural Networks and Deep Learning",
@@ -25,7 +25,7 @@
             "link": "https://www.coursera.org/learn/neural-networks-deep-learning",
             "about": "build, train and apply fully connected deep neural networks",
             "skills_acquired": ["Artificial Neural Network", "TensorFlow", "Backpropagation", "Deep Learning"],
-            "status": "completed"
+            "status": "Completed"
         },
         {
             "name": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",
@@ -34,7 +34,7 @@
             "link": "https://www.coursera.org/learn/deep-neural-network",
             "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
             "skills_acquired": ["Hyperparameter", "TensorFlow", "Hyperparameter Optimization"],
-            "status": "completed"
+            "status": "Completed"
         },
         {
             "name": "Structuring Machine Learning Projects",
@@ -43,7 +43,7 @@
             "link": "https://www.coursera.org/learn/machine-learning-projects",
             "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
             "skills_acquired": ["Inductive Transfer", "Multi-Task Learning", "Machine Learning"],
-            "status": "completed"
+            "status": "Completed"
         },
         {
             "name": "Convolutional Neural Networks",
@@ -53,7 +53,7 @@
             "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
             "skills_acquired": ["About Facial Recognition System", "Convolutional Neural Network", 
                 "Artificial Neural Network"],
-            "status": "completed"
+            "status": "Completed"
         },
         {
             "name": "Sequence Models",
@@ -63,7 +63,7 @@
             "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
             "skills_acquired": ["Recurrent Neural Network", "Long Short-Term Memory (LSTM)",
                 "Artificial Neural Network"],
-            "status": "completed"
+            "status": "Completed"
         },
         {
             "name": "Machine Learning",
@@ -73,7 +73,7 @@
             "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
             "skills_acquired": ["Logistic Regression", "Artificial Neural Network", 
                 "Machine Learning Algorithms", "Machine Learning", "Supervised Learning", "Unsupervised Learning"],
-            "status": "completed"
+            "status": "Completed"
         },
         {
             "name": "Applied Machine Learning in Python",
