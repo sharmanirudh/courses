@@ -23,7 +23,7 @@
             "offered_by": "Deeplearning.ai",
             "course_instructor": "Andrew Ng",
             "link": "https://www.coursera.org/learn/neural-networks-deep-learning",
-            "about": "build, train and apply fully connected deep neural networks",
+            "about": "Build, train and apply fully connected deep neural networks",
             "skills_acquired": ["Artificial Neural Network", "TensorFlow", "Backpropagation", "Deep Learning"],
             "status": "Completed"
         },
@@ -32,7 +32,7 @@
             "offered_by": "Deeplearning.ai",
             "course_instructor": "Andrew Ng",
             "link": "https://www.coursera.org/learn/deep-neural-network",
-            "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
+            "about": "Broad introduction to machine learning, data mining, and statistical pattern recognition",
             "skills_acquired": ["Hyperparameter", "TensorFlow", "Hyperparameter Optimization"],
             "status": "Completed"
         },
@@ -41,7 +41,7 @@
             "offered_by": "Deeplearning.ai",
             "course_instructor": "Andrew Ng",
             "link": "https://www.coursera.org/learn/machine-learning-projects",
-            "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
+            "about": "Broad introduction to machine learning, data mining, and statistical pattern recognition",
             "skills_acquired": ["Inductive Transfer", "Multi-Task Learning", "Machine Learning"],
             "status": "Completed"
         },
@@ -60,7 +60,7 @@
             "offered_by": "Deeplearning.ai",
             "course_instructor": "Andrew Ng",
             "link": "https://www.coursera.org/learn/nlp-sequence-models",
-            "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
+            "about": "Broad introduction to machine learning, data mining, and statistical pattern recognition",
             "skills_acquired": ["Recurrent Neural Network", "Long Short-Term Memory (LSTM)",
                 "Artificial Neural Network"],
             "status": "Completed"
@@ -70,7 +70,7 @@
             "offered_by": "Deeplearning.ai",
             "course_instructor": "Andrew Ng",
             "link": "https://www.coursera.org/learn/machine-learning",
-            "about": "broad introduction to machine learning, data mining, and statistical pattern recognition",
+            "about": "Broad introduction to machine learning, data mining, and statistical pattern recognition",
             "skills_acquired": ["Logistic Regression", "Artificial Neural Network", 
                 "Machine Learning Algorithms", "Supervised Learning", "Unsupervised Learning"],
             "status": "Completed"
